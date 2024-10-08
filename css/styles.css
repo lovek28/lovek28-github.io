@@ -4015,7 +4015,7 @@ img.u-pull-left {
 
     .folio-list__item-pic img {
         max-width : 100%;
-        width     : 100%;
+        width     : auto;
         height    : auto;
     }
 
